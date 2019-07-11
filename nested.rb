@@ -82,7 +82,7 @@ def adding_matz
         }
      }
 
-		 programmer_hash[:yukihiro_matsumoto] = {:yukihiro_matsumoto: "null", known_for: "Ruby", languages: ["LISP", "C"]}
+		 programmer_hash[:yukihiro_matsumoto] = {yukihiro_matsumoto: "null", known_for: "Ruby", languages: ["LISP", "C"]}
 end
 
 def changing_alan
